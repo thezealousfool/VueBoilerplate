@@ -1,6 +1,6 @@
-# yesm2018
+# Vue.js Boilerplate
 
-> Young Economist Students' Meet
+> Vue.js boilerplate with jade, sass, vue-router and vuex setup 
 
 ## Build Setup
 
